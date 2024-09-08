@@ -1,0 +1,8 @@
+.backgroundDiv {
+    background-image: url('../image/fast_food.jpg'); /* Path relative to the CSS file */
+    background-size: cover; /* or 'contain', depending on your needs */
+    background-position: center;
+    height: 100vh; /* specify height */
+    width: 100%; /* specify width */
+    padding: 10px;
+  }
